@@ -7,6 +7,7 @@ Este projeto tem como objetivo recriar a página de design apresentada no Figma 
 Tecnologias Utilizadas:
 
 HTML5: Estrutura da página e conteúdo.
+
 CSS3: Estilização visual da página, incluindo layout, cores, fontes e responsividade.
 
 Objetivos: 
@@ -25,7 +26,6 @@ git clone https://github.com/JoaoPedroP-web/AluraPlus
 Autor: João Pedro Requejo - Estudante de Análise e Desenvolvimento de Sistemas.
 
 Observações:
-Responsividade: A página foi desenvolvida com foco em responsividade, adaptando-se a diferentes tamanhos de tela.
 Foram aplicadas algumas práticas de acessibilidade, como o uso de semântica HTML e contraste de cores adequado.
 Pretendo adicionar novas funcionalidades e aprimorar o design da página.
 
