@@ -144,7 +144,7 @@ body {
     color: var(--cinza-secundario);
     margin-top: 1em 0;
     padding-top: 0.5em;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
 }
 
 .lista__link a:hover {
