@@ -2,7 +2,7 @@
 
 Descrição:
 
-Este projeto tem como objetivo recriar fielmente a página de design apresentada no Figma (https://www.figma.com/design/47BKYDf1UozcUbhLRmaSAl/HTML-e-CSS%3A-praticando-HTML%2FCSS-%7C-Alura-Plus-(Community)?node-id=1-77&node-type=frame&t=k40kqtLm7fwAqHjk-0) utilizando exclusivamente HTML e CSS. A atividade foi realizada como parte do meu aprendizado em Desenvolvimento Web com projetos iniciais de Front-End na Alura.
+Este projeto tem como objetivo recriar a página de design apresentada no Figma (https://www.figma.com/design/47BKYDf1UozcUbhLRmaSAl/HTML-e-CSS%3A-praticando-HTML%2FCSS-%7C-Alura-Plus-(Community)?node-id=1-77&node-type=frame&t=k40kqtLm7fwAqHjk-0) utilizando exclusivamente HTML e CSS. A atividade foi realizada como parte do meu aprendizado em Desenvolvimento Web com projetos iniciais de Front-End na Alura.
 
 Tecnologias Utilizadas:
 
